@@ -23,6 +23,5 @@ algorithm study
 정리한 내용, 하고싶은 말 등등...
 
 ### 4. 문제집
-[BOJ 문제집](https://www.acmicpc.net/workbook/view/1152)
 - `드래곤 커브`부터 풀고 싶은 순서대로 풀기
 
