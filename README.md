@@ -1,7 +1,5 @@
-# samsungAlgo
-algorithm study for samsung
-
-2022년 상반기 코딩테스트 (4월 말 예상)
+# algo-study
+algorithm study
 
 ## 참가 인원
 ⭐ 서영은
@@ -25,6 +23,6 @@ algorithm study for samsung
 정리한 내용, 하고싶은 말 등등...
 
 ### 4. 문제집
-[삼성 BOJ 문제집](https://www.acmicpc.net/workbook/view/1152)
+[BOJ 문제집](https://www.acmicpc.net/workbook/view/1152)
 - `드래곤 커브`부터 풀고 싶은 순서대로 풀기
 
